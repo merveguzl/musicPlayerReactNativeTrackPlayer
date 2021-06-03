@@ -1,6 +1,0 @@
-module Pods_exampleMusicPlayer {
-  umbrella header "Pods-exampleMusicPlayer-umbrella.h"
-
-  export *
-  module * { export * }
-}
